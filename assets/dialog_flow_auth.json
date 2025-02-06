@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "touristbot-bkyj",
+  "private_key_id": "1890c887366285db7effe1378c11890d0518fc60",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlQ5PvmXeqcnc/\n4xeyrRgSCaywOtdChkXq00BWyiAZU3V8z7Fb1tLRPLOjA2PiGP+i1PAiXeNokc+C\n5zT6oOWcZWJUnd0E2K3CZtU+130j1bCjdcojSGNFIW8+L3XLYGQZzVZOzaTc03Qf\nlb2R3dCYnQZIiV+SZKqGL3qrwAU4xDru3tUt5oQUKIXgaF6BIPtH834vwbtg53lP\n2pEIgKwUm4UR51kLCnfm0+IxI8L48oursTNPgeOH+xY1NWTRYq0j4/upqpwHwK/p\nPXl++CKtEAP72x3rS6evT58SjiVNmxrgDs8cXvNpixgAP8wukUTWjWKuo8ln5KSf\nDGrbRY8HAgMBAAECggEAIZRfU6W3yEhRvRLHAs2li+bM21cS9lRyYy2j69JZFzyJ\nJcnJ4Xi6khkA+qxhcdlVgAUOUwpLZ6KLsVGqCdeNKfYTi+8/UxllgebL7xNi6d+/\nqoFzJO3SVGrMP2B2MV6h6sGPlaU7M3jpNkMZbAcAKYo+RFuSmv+RlmvX3NYYLbMR\nIASmzXvi2LuaPNRePmTKK/HHagIAsmvaeR0n1s2Ozrrz/wE4B2OCQYhsMIyLvJ4E\nYh1w7fBjUyqMOU0SWdFYOyiNTaSAjnIn4UnXFyfi7TszED/NnJFqZW+3CWsqz4HO\n85pybEQ9QU0kZ7bUlRH3zvBPXe93Jm3pjOWPTjM4WQKBgQD9ioqAxTAcLH39NMNN\n5BRbTF0B0Y/nQQcbIz4FuqhiENW6MTwcsGVv5r7H8szSq9l9jZFDX7Qe8k5arWjf\nGv/tH+2YKbcpA+113cnkVFeKBFXBFu3AaHH35Qz4pBbulB2dCCDI4urk8gyHjo1e\nLSN9B45+2cxjmzoWsSOyCf8j+wKBgQDnfMO7lumMjxW+7miu7f18/+IH4an0pmHn\neC0KW8F4cEUzIS0x79G2SLY/J5/RkthUEW9N6ONPTekg4N3yXeDDCtlVVUj5DpSf\n9qgjV2fr6v9vGagAc5g9phf3ZXj+mBVjdNeYOHm/9tSUveKj4WkrgF74yXwURhct\n+k6zVHmHZQKBgQD5eqRUlzOC1YjXaV6wOziIqbhu/K0z6Tm7y07RRl0/ub8EqkOz\nGyOFG7EogFJpDi5BK9b/S6GqPdU5xp6FwkSIKL2a15lh43p6W1W4tgE5TpCvIgeq\nJ1vViG3eD2B9PANzrDbOVPK7ey03Cd8zBwl/krr1OQy0Cl77SyyLmOiUlwKBgGhP\n1HPHwV5Ra98p14pcPAoD1HrwuYFBKIUBpmowhrIbBVPQ82i5RKr7gQRceqwZm9nm\nMV3OQAAQf6kNK3Z3zzyUuvK1B7kTVO3wXDvwuyeYMZqC2S266TN+kPYuh6NSLPEw\nSaaSbGqQc6LDHkny3U14/1LkmEEahH93d9dfjZPxAoGAbscU9F8omEUjG2jovwej\nFnpYNNkUY1gQjWdMEDKzqWlkLnCkkCocHdJNM8QaTlKwMsGgCqKejTv2k1CjSkvt\n73oyIda+BoN/9w5s7RIsP8iAkV+a1zWGh8X9IX3Wd67FCXyTa6m0lpCjjH4iEqdm\nBtyD1jEafhBv+GIHJn1ogmo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "touristbot@touristbot-bkyj.iam.gserviceaccount.com",
+  "client_id": "108460713044178047620",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/touristbot%40touristbot-bkyj.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
